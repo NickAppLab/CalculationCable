@@ -16,7 +16,7 @@ namespace CalculationCable
         public static Start Instance => _app;
         public Result OnStartup(UIControlledApplication application)
         {
-            _app=this;
+            _app = this;
             var tabPanelName = "BIMDATA";
             try
             {
@@ -27,7 +27,7 @@ namespace CalculationCable
                 application.CreateRibbonTab(tabPanelName);
             }
 
-            var ribbonPanel= application.GetRibbonPanels(tabPanelName).FirstOrDefault(x=>x.Name==tabPanelName) ?? application.CreateRibbonPanel(tabPanelName, tabPanelName);
+            var ribbonPanel = application.GetRibbonPanels(tabPanelName).FirstOrDefault(x => x.Name == tabPanelName) ?? application.CreateRibbonPanel(tabPanelName, tabPanelName);
             ribbonPanel.Name = tabPanelName;
             ribbonPanel.Title = tabPanelName;
 

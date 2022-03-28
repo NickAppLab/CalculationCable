@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>CalculationCable</Name>
+    <Assembly>CalculationCable.dll</Assembly>
+    <ClientId>57892f29-7c5e-4343-88d3-b31552554e43</ClientId>
+    <FullClassName>CalculationCable.Start</FullClassName>
+    <VendorId>Graf</VendorId>
+    <VendorDescription>Graf, www.autodesk.com</VendorDescription>
+  </AddIn>
+  
+</RevitAddIns>

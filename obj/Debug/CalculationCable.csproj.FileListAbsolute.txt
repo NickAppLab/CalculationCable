@@ -1,0 +1,7 @@
+C:\Users\Graf\source\repos\CalculationCable\bin\Debug\CalculationCable.dll
+C:\Users\Graf\source\repos\CalculationCable\bin\Debug\CalculationCable.pdb
+C:\Users\Graf\source\repos\CalculationCable\obj\Debug\CalculationCable.csproj.AssemblyReference.cache
+C:\Users\Graf\source\repos\CalculationCable\obj\Debug\CalculationCable.csproj.CoreCompileInputs.cache
+C:\Users\Graf\source\repos\CalculationCable\obj\Debug\CalculationCable.dll
+C:\Users\Graf\source\repos\CalculationCable\obj\Debug\CalculationCable.pdb
+C:\Users\Graf\source\repos\CalculationCable\obj\Debug\CalculationCable.g.resources
